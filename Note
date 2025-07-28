@@ -1,0 +1,17 @@
+# 🛍️ Shopping Behavior Dashboard
+
+This project analyzes customer shopping behavior using **Power BI** and **DAX**, with plans to extend the analysis using **Python** for machine learning modeling.
+
+## 🔍 Key Insights:
+- **Gender Analysis**: Male customers dominate both in count and purchase value.
+- **Top Selling Items**: Blouses, shirts, and dresses top the sales chart.
+- **Location Trends**: Purchases are high across Montana, Illinois, and California.
+- **Age Demographics**: Adults contribute the most to revenue.
+- **Shipping Preferences**: Free shipping is the most popular.
+- **Payment Methods**: All methods are fairly equally used.
+- **Color Preferences**: Green is slightly more favored.
+
+## 🛠 Tools Used:
+- **Power BI** (visualization)
+- **DAX** (calculated metrics)
+- **Python (coming soon)**: Predictive modeling and customer segmentation.
