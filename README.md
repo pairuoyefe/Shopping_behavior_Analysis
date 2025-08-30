@@ -1,26 +1,32 @@
-# Shopping_behavior_Analysis
-#Shopping Behavior Dashboard
-This project analyzes customer shopping behavior using Power BI and DAX, with plans to extend the analysis using Python for machine learning modeling.
+# 🛍️ Shopping Behavior Dashboard  
 
-🔍 Key Insights:
-Gender Analysis: Male customers dominate both in count and purchase value.
+This project analyzes customer shopping behavior using **Power BI** and **DAX** for data modeling and visualization.  
 
-Top Selling Items: Blouses, shirts, and dresses top the sales chart.
+![Shopping Behavior Dashboard](Capture.PNG)  
 
-Location Trends: Purchases are consistently high across states like Montana, Illinois, and California.
+## 🔍 Key Insights  
+- **Gender Analysis**: Male customers dominate both in count and purchase value.  
+- **Top Selling Items**: Blouses, shirts, and dresses top the sales chart.  
+- **Location Trends**: Purchases are high across Montana, Illinois, and California.  
+- **Age Demographics**: Adults contribute the most to revenue.  
+- **Shipping Preferences**: Free shipping is the most popular.  
+- **Payment Methods**: All methods are fairly equally used.  
+- **Color Preferences**: Green is slightly more favored.  
 
-Age Demographics: Adults contribute the most to overall purchase amounts, followed by older shoppers.
+## 🛠 Tools Used  
+- **Power BI** (dashboard design & visualization)  
+- **DAX** (calculated metrics and measures)  
 
-Shipping Preferences: Free shipping is the most popular option.
+## 💡 Recommendations  
+1. **Premium Subscriptions**  
+   - Target **male customers** and **adults** with premium loyalty programs (priority shipping, exclusive discounts).  
+2. **Customer Retention**  
+   - Improve **CSAT** by offering flexible delivery options and bundle promotions for low-selling items.  
+3. **Product Strategy**  
+   - Stock more **blouses, shirts, and dresses** and highlight **green & teal** in marketing campaigns.  
+4. **Location Strategy**  
+   - Strengthen campaigns in **Montana, Illinois, California** while creating incentives for weaker regions.  
+5. **Payment Optimization**  
+   - Maintain a **multi-channel checkout system** to reduce cart abandonment.  
 
-Payment Methods: All payment types (credit card, PayPal, cash, etc.) are fairly equally used.
-
-Color Preferences: Green is slightly more favored, followed closely by yellow and teal.
-
-🛠 Tools Used:
-Power BI (for data visualization and dashboard development)
-
-DAX (for data modeling and calculated metrics)
-
-Python (planned): To implement predictive models for customer behavior and segmentation.
-
+---
